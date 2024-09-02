@@ -1,4 +1,4 @@
-### <div align="center">👋 Thank you for visiting my profile. I'm Dean, a full-stack web developer with experience as a junior web developer.</div>  
+### <div align="center">👋 Thank you for visiting my profile. I'm Dean, a full-stack web developer.</div>  
   
 
 - 🔭 I’m currently working on Myint Thukha Nadi Co.,Ltd  
